@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🌱 I'm currently working on Chest, a new debuggable database written in pure Dart.
+🌱 I'm currently working on Chest, a new debuggable database written in pure Dart.  
 😏 Together with @JonasWanke, I'm also working on [Candy (name about to change)](https://github.com/JonasWanke/candy), a new programming language.
 
-📫 Don't hesistate to get in touch with me! (digitally 😷)
-You can reach me on [Telegram](https://t.me/marcelgarus) or via [mail](mailto:marcel.garus@gmail.com).
+📫 Don't hesistate to get in touch with me! (digitally 😷)  
+You can reach me on [Telegram](https://t.me/marcelgarus) or via [mail](mailto:marcel.garus@gmail.com).  
 Other contact options are listed on [my website](https://marcelgarus.dev).
 
 <!--
