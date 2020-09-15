@@ -6,7 +6,7 @@
 
 
 📫 Don't hesistate to get in touch with me! (digitally 😷)  
-You can reach me on [Telegram](https://t.me/marcelgarus) or via [mail](mailto:marcel.garus@gmail.com).  
+You can reach me on [Telegram](https://t.me/marcelgarus) or via [mail](mailto:marcel.garus@gmail.com).
 Other contact options are listed on [my website](https://marcelgarus.dev).
 
 <!--
