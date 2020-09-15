@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 🌱 I'm currently working on [Chest](https://github.com/marcelgarus/chest), a new debuggable database written in pure Dart.  
-😏 Together with [@JonasWanke](https://github.com/JonasWanke), I'm also working on [Candy (name about to change)](https://github.com/JonasWanke/candy), a new programming language.  
-🤗 And also, I'm working at the [HPI-Schul-Cloud](https://hpi-schul-cloud.org) in order to enable students to work from home.
+🍬 Together with [@JonasWanke](https://github.com/JonasWanke), I'm also working on [Candy (name about to change)](https://github.com/JonasWanke/candy), a new programming language.  
+🦙 And also, I'm working at the [HPI-Schul-Cloud](https://hpi-schul-cloud.org) in order to enable students to work from home.
 
 
 📫 Don't hesistate to get in touch with me! (digitally 😷)  
