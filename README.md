@@ -1,13 +1,13 @@
 ### Hello, world! 👋
 
-🌱 I'm currently working on [**Chest**](https://github.com/marcelgarus/chest), a new debuggable database written in pure Dart.  
-🍬 Together with [@JonasWanke](https://github.com/JonasWanke), I'm also working on [**Candy** (name subject to change)](https://github.com/JonasWanke/candy), a new programming language.  
-🦙 And also, I'm working at the [**HPI-Schul-Cloud**](https://hpi-schul-cloud.org) in order to enable students to work from home.
+📄 I'm currently working on [**SemDoc**](https://github.com/marcelgarus/semdoc), a semantic document format.  
+🌱 I'm also creating [**Chest**](https://github.com/marcelgarus/chest), a debuggable database written in pure Dart.  
+🍬 Together with [@JonasWanke](https://github.com/JonasWanke), I'm reinventing the wheel with [**Candy** (name subject to change)](https://github.com/candy-lang/candy), a new programming language.  
+🦙 Finally, I'm working at the [**HPI-Schul-Cloud**](https://hpi-schul-cloud.org) in order to enable students to work from home.
 
 
 📫 Don't hesistate to get in touch with me! (digitally 😷)  
-You can reach me on [Telegram](https://t.me/marcelgarus) or via [mail](mailto:marcel.garus@gmail.com).
-Other contact options are listed on [my website](https://marcelgarus.dev).
+You can reach me on [Telegram](https://t.me/marcelgarus) or via [other contact options](https://schreib.marcel.jetzt).
 
 <!--
 **marcelgarus/marcelgarus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
