@@ -3,7 +3,6 @@
 📄 I'm currently working on [**SemDoc**](https://github.com/marcelgarus/semdoc), a semantic document format.  
 🍬 Together with [@JonasWanke](https://github.com/JonasWanke), I'm reinventing the wheel with [**Candy** (name subject to change)](https://github.com/candy-lang/candy), a new programming language.  
 🌱 I'm also creating [**Chest**](https://github.com/marcelgarus/chest), a debuggable database written in pure Dart.  
-🦙 Finally, I'm working at the [**HPI-Schul-Cloud**](https://hpi-schul-cloud.org) in order to enable students to work from home.
 
 
 📫 Don't hesistate to get in touch with me! (digitally 😷)  
